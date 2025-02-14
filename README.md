@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Meu nome é Tiago Ferreira!</h1>
-<h3 align="center">Tenho um grande interesse por IA e análise de dados, explorar essas áreas é algo que realmente me fascina, e cada descoberta e avanço nessas áreas me enche de entusiasmo e admiração!</h3>
+<h3 align="center">Desenvolvedor Front-end Jr., criando soluções web interativas com ReactJS e evoluindo minhas habilidades em JavaScript e TypeScript, sempre em busca de entregar resultados de qualidade!🚀</h3>
 
 - 🌱Atualmente eu estou aprendendo **Python, Machine Learning, Data Analysis, Power BI**
 
-- 💬 Me pergunte sobre **Big Data, Machine Learning, Python,Data Analysis, Power BI, AI**
+- 💬 Me pergunte sobre **React JS, JavaScript, TypeScript, Front-End, Git, Scrum, **
 
 - 📫Encontre-me através do e-mail: **tiagosantosf6@gmail.com**
 
