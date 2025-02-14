@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Meu nome é Tiago Ferreira!</h1>
 <h3 align="center">Desenvolvedor Front-end Jr., criando soluções web interativas com ReactJS e evoluindo minhas habilidades em JavaScript e TypeScript, sempre em busca de entregar resultados de qualidade!🚀</h3>
 
-- 🌱Atualmente eu estou aprendendo **Python, Machine Learning, Data Analysis, Power BI**
+- 🌱Atualmente eu estou aprendendo **JavaScript, ReactJS...**
 
-- 💬 Me pergunte sobre **React JS, JavaScript, TypeScript, Front-End, Git, Scrum, **
+- 💬 Me pergunte sobre **React JS, JavaScript, TypeScript, Front-End, Git, Scrum**
 
 - 📫Encontre-me através do e-mail: **tiagosantosf6@gmail.com**
 
